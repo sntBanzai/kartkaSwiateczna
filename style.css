@@ -1,0 +1,13 @@
+body {
+	background-image: url(tlo.jpg);
+	background-repeat: no-repeat;
+	background-position-y: right;
+	background-position-x: bottom;
+	background-size: cover;
+}
+
+p{
+	font-family: "Gill Sans Ultra Bold";
+	font-size: 4em;
+	color: green;
+}
